@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Define variables
-SERVER_IP="143.198.187.83"
+SERVER_IP="159.223.172.67"
 PORT="8000"
 
 # Update and install necessary packages
